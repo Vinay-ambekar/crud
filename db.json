@@ -1,0 +1,159 @@
+{
+  "enquiry": [
+    {
+      "firstName": "dfgdfgdg",
+      "lastName": "dfgd",
+      "email": "dfgdg",
+      "mobile": "2324",
+      "weight": 34,
+      "height": 345,
+      "bmi": 0.0002856542743121193,
+      "bmiresult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "sugar Craving Body"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-10-24T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "bvc",
+      "lastName": "cvxcv",
+      "email": "xcvxc",
+      "mobile": "xvcxv",
+      "weight": 23,
+      "height": 34,
+      "bmi": 0.0025951557093425604,
+      "bmiresult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Yearly",
+      "important": [
+        "sugar Craving Body"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-10-15T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": "sdfsfd",
+      "lastName": "sdfdsf",
+      "email": "sdf",
+      "mobile": "dfgd",
+      "weight": 21,
+      "height": 1,
+      "bmi": 0,
+      "bmiresult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Healthier Digestive system",
+        "sugar Craving Body"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-10-09T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "firstName": "sdfsf",
+      "lastName": "sdsdf",
+      "email": "fdgdf",
+      "mobile": "dfgdf",
+      "weight": 21,
+      "height": 21,
+      "bmi": 0.0045351473922902496,
+      "bmiresult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "sugar Craving Body"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-10-16T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "firstName": "sdfsfd",
+      "lastName": "fdg",
+      "email": "ffgh",
+      "mobile": "ffghfh",
+      "weight": 312,
+      "height": 12,
+      "bmi": 0.006944444444444444,
+      "bmiresult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-10-29T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "firstName": "sdf",
+      "lastName": "dsf",
+      "email": "sfd",
+      "mobile": "dsf",
+      "weight": 231,
+      "height": 123,
+      "bmi": 0.000793178663493952,
+      "bmiresult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Healthier Digestive system",
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-10-01T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "firstName": "sdf",
+      "lastName": "sdf",
+      "email": "sdf",
+      "mobile": "21234",
+      "weight": 234,
+      "height": 234,
+      "bmi": 0.00042004529184016366,
+      "bmiresult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Healthier Digestive system",
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-10-24T18:30:00.000Z",
+      "id": 7
+    },
+    {
+      "firstName": "sdf",
+      "lastName": "sdf",
+      "email": "sdf",
+      "mobile": "sdf",
+      "weight": 325,
+      "height": 435,
+      "bmi": 0.00022724270048883605,
+      "bmiresult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "sugar Craving Body"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-10-28T18:30:00.000Z",
+      "id": 8
+    }
+  ]
+}
