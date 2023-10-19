@@ -9,6 +9,7 @@ import { UserDetailComponent } from './user-detail/user-detail.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { NgToastModule } from 'ng-angular-popup';
 
 import {MatToolbarModule} from '@angular/material/toolbar';
 import {MatIconModule} from '@angular/material/icon';
@@ -20,7 +21,9 @@ import { MatRadioModule} from '@angular/material/radio';
 import {MatSelectModule} from '@angular/material/select';
 import {MatDatepickerModule} from '@angular/material/datepicker';
 import { MatNativeDateModule } from '@angular/material/core';
-import { NgToastModule } from 'ng-angular-popup';
+import {MatPaginatorModule} from '@angular/material/paginator';
+import {MatTableModule} from '@angular/material/table';
+import {MatSortModule} from '@angular/material/sort';
 
 
 
@@ -36,6 +39,7 @@ import { NgToastModule } from 'ng-angular-popup';
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule, 
+    NgToastModule,
 
     FormsModule,
     ReactiveFormsModule,
@@ -50,7 +54,9 @@ import { NgToastModule } from 'ng-angular-popup';
     MatSelectModule,
     MatDatepickerModule,
     MatNativeDateModule,
-    NgToastModule
+    MatPaginatorModule,
+    MatTableModule,
+    MatSortModule
 
 
     
